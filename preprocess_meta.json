@@ -1,0 +1,10 @@
+{
+  "max_seq": 512,
+  "vocab_size": 24000,
+  "train_samples": 767992,
+  "val_samples": 1511,
+  "train_tokens_total": 339050088,
+  "val_tokens_total": 668059,
+  "train_loss_tokens": 259861558,
+  "val_loss_tokens": 512355
+}
